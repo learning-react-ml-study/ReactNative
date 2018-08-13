@@ -2,4 +2,4 @@
 
 1. 날씨앱
 2. 타이머
-3. kawai todo-app
+3. todo-app
